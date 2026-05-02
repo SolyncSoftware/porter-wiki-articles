@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-title: Theaceae Collective joins Netro
+title: Netro Corp to Acquire Theaceae Collective
 date: 2025-4-24 08:41 -0600
 category: pages
 author: papertek
