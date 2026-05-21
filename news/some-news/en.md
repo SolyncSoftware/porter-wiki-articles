@@ -29,7 +29,7 @@ Also after many tests the doctors found out I don't have cancer! Wahoo!!
 
 ## What happens to Theaceae Collective websites?
 
-We still control them. We'll also temporarily move them to [UNTONE](https://untone.org/)'s infrastructure! We also plan a lot of cool stuff so stay tuned. :D
+We still control them. We'll also temporarily move them to [UNTONE](https://untone.org/)'s infrastructure! We plan to host the websties on our own infrastructure eventually, so stay tuned. :D
 
 Anyways, I'm very tired and I need rest.
 
