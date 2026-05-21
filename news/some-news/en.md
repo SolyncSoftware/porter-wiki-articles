@@ -1,7 +1,7 @@
 ---
 layout: post
 type: news
-title: Some bad news and good news
+title: Netro Corp and Theaceae Collective part ways
 date: 2026-5-21 03:08 -0600
 category: pages
 author: papertek
@@ -11,22 +11,28 @@ image: /solync.png
 
 ## Hello, it's papertek
 
-So, I have two announcements today. One's bad news, one's good news. Let's start with the bad news.
+Let's talk about what's been happening recently.
 
 ## The bad news
 
-After a full year, the partnership between Theaceae Collective and Netro Corporation was forcefully called off. I was fired unilaterally. The reasoning ranged from personal issues to ideological ones, and then to business.
+After a full year of partnership, it has ended. We're no longer involved with Netro Corporation.
 
-For personal issues, I was accused of not supporting the founder enough and accused of being selfish, among many other things. While I'm not perfect, I don't believe this destructive measure was necessary, and it could've been resolved through communication. Not only were many cool projects canceled, but the fact that an absent founder returned just to do this feels wrong. I want to mention that others and I took steps to ensure the founder of Netro Corporation was comfortable with the company's vibe after the acquisition. We tried for months.
+## The good news
 
-I am tired.
+Theaceae Collective is still ours, we will begin to move forward independenty under a new name too.
 
-No, he wasn't micromanged or anything similar. No, I wasn't taking over (the work I was doing was taking initative when he wasn't there). No, we didn't try to exclude him. These accusations are what I know on the top of my head. Please let me know anything more thank you.
+We are calling it **Solync** (pronounced "so-link"), and we're already building some cool shit. Our values still remain, a flat and collaborative environment with no centralized power.
 
-For ideological reasons, the founder of Netro Corporation *bypassed* the values we all established together as a team. In our values, it's mentioned to **always support someone before removal and attempt reintegration**. Not only was this completely thrown out the window, but the founder also did it unilaterally. Nobody knew it was going to happen until the moment it happened. This destructive action destroyed company morale, caused projects to be canceled, caused Netro Corporation's branding to be scrapped, and most members (as of now) are left confused and untrusting of the founder. I am deeply upset over the incompetence they have to deal with.
+If you were part of our journey and want to join Solync with this new chapter, [visit our website](https://solync.org/)! If not, we wish you well...
 
-> "I can assure you Theaceae Collective's values will remain the same or else the deal is off!" I mentioned this in the initial acquisition post.
+Also after many tests the doctors found out I don't have cancer! Wahoo!!
 
-For business, the founder was in the talks with a business advisor to formalize Netro Corporation. The founder's idea was to create a holding company (Netro Corporation) with an LLC underneath it for the "collective" software side. I personally felt that was straying away from what workers built.
+## What happens to Theaceae Collective websites?
 
-I engaged because I was curious on how this would work, but the more I heard the terms the more it felt *wrong*.
+We still control them. We will also be moving them to [UNTONE](https://untone.org/)'s infrastructure! We also plan a lot of cool stuff so stay tuned. :D
+
+Anyways, I'm very tired and I need rest.
+
+If you have any questions, feedback, issues, or wish to help out, you can add me on Discord <mark>@papertek</mark>, or you can join the community [Discord](https://discord.gg/nUeRyRtDYC).
+
+Thanks for reading! :)
