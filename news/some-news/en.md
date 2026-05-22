@@ -36,3 +36,5 @@ Anyway, I'm very tired, and I need rest.
 If you have any questions, feedback, issues, or wish to help out, you can add me on Discord <mark>@papertek</mark>, or you can join the community [Discord](https://discord.gg/nUeRyRtDYC).
 
 Thanks for reading! :)
+
+![Solync](/solync.png)
